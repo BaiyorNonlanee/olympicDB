@@ -1,0 +1,22 @@
+{
+    "country": [
+      {
+        "id": 123,
+        "country_name": "Thailand",
+        "description": "Cat Adoption Day",
+        "image": "https://cdn.britannica.com/38/4038-050-BDDBA6AB/Flag-Thailand.jpg",
+        "gold": 40,
+        "silver": 25,
+        "bronze": 3
+      },
+      {
+        "id": 456,
+        "country_name": "USA",
+        "description": "Cat Adoption Day",
+        "image": "https://cdn.britannica.com/38/4038-050-BDDBA6AB/Flag-Thailand.jpg",
+        "gold": 33,
+        "silver": 2,
+        "bronze": 1
+      }
+    ]
+  }
