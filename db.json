@@ -149,56 +149,6 @@
         "silver": 4,
         "bronze": 9,
         "rank": 15
-      },
-      {
-        "id": 125,
-        "country_name": "Sweden",
-        "description": "Sweden first participated at the Olympic Games at the inaugural 1896 Games, and has sent athletes to compete in every Games since then with one exception, the sparsely attended 1904 Summer Olympics. Sweden has earned medals at all Olympic games except for two, the 1896 Games and the 1904 Games (the latter of which Sweden did not compete at). Sweden is the country with the longest Olympic Games medalling streak in history, having earned medals at every Olympic game since 1908.",
-        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/330px-Flag_of_Sweden.svg.png",
-        "gold": 4,
-        "silver": 4,
-        "bronze": 3,
-        "rank": 16
-      },
-      {
-        "id": 126,
-        "country_name": "Kenya",
-        "description": "Kenya first participated at the Olympic Games in 1956, and has sent athletes to compete in every Summer Olympic Games since then, except for the boycotted 1976 and 1980 Games. Kenya participated in the Winter Olympic Games in 1998, 2002, 2006 and 2018. Kenyan athletes have won 124 medals in total, all from boxing and track and field events, making them the most successful African committee at the Olympics. In terms of total medals won, the most recent Summer Olympics (2008, 2012, and 2016) have been Kenya's most successful, producing 42 medals between them.",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Kenya.svg/330px-Flag_of_Kenya.svg.png",
-        "gold": 4,
-        "silver": 2,
-        "bronze": 5,
-        "rank": 17
-      },
-      {
-        "id": 127,
-        "country_name": "Norway",
-        "description": "Norway first participated at the Summer Olympics in 1900, and has sent athletes to compete in every Games since then, except for the 1980 Summer Olympics in Moscow when they participated in the American-led boycott and, as previously thought, the 1904 Games in St. Louis, United States. However, at the beginning of the 21st century, it was discovered that wrestlers Charles Ericksen and Bernhoff Hansen, who were Norwegian expatriates in America whose medals at the 1904 Summer Olympics were previously attributed to United States, still held Norwegian citizenship at the time of the games. They won the gold medals in the wrestling welterweight and heavyweight events respectively.",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/330px-Flag_of_Norway.svg.png",
-        "gold": 4,
-        "silver": 1,
-        "bronze": 3,
-        "rank": 18
-      },
-      {
-        "id": 128,
-        "country_name": "Ireland",
-        "description": "The National Olympic Committee in Ireland has been known by three titles. It was originally called the Irish Olympic Council (IOC) from 1920 to 1952 (not to be confused with the International Olympic Committee, also abbreviated as IOC). It became the Olympic Council of Ireland (OCI) from 1952 to 2018. It then became the Olympic Federation of Ireland (OFI) in 2018.",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/330px-Flag_of_Ireland.svg.png",
-        "gold": 4,
-        "silver": 0,
-        "bronze": 3,
-        "rank": 19
-      },
-      {
-        "id": 129,
-        "country_name": "Brazil",
-        "description": "Brazil has also participated in the Winter Olympic Games since 1992. Due to Brazil being mostly a tropical nation, to this date no Brazilian athlete has won an Olympic medal in the winter sports and the country's best result at the Winter Olympics was a ninth place by snowboarder Isabel Clark Ribeiro at the 2006 Winter Olympics.",
-        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/330px-Flag_of_Brazil.svg.png",
-        "gold": 3,
-        "silver": 7,
-        "bronze": 10,
-        "rank": 20
       }
     ]
   }
