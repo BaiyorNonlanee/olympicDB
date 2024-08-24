@@ -102,15 +102,9 @@
         "sports": [
           {
             "name": "Swimming",
-            "gold_medals": 8,
-            "silver_medals": 7,
-            "bronze_medals": 8
-          },
-          {
-            "name": "Tennis",
-            "gold_medals": 10,
-            "silver_medals": 12,
-            "bronze_medals": 8
+            "gold_medals": 18,
+            "silver_medals": 19,
+            "bronze_medals": 16
           }
         ]  
       },
@@ -153,12 +147,6 @@
             "gold_medals": 10,
             "silver_medals": 5,
             "bronze_medals": 3
-          },
-          {
-            "name": "Rowing",
-            "gold_medals": 5,
-            "silver_medals": 2,
-            "bronze_medals": 3
           }
         ]  
       },
@@ -170,7 +158,13 @@
         "gold": 14,
         "silver": 10,
         "bronze": 8,
-        "rank": 7
+        "rank": 7,
+        {
+          "name": "Rowing",
+          "gold_medals": 14,
+          "silver_medals": 10,
+          "bronze_medals": 8
+        }
       },
       {
         "id": 117,
