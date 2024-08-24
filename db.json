@@ -94,27 +94,7 @@
         "gold": 20,
         "silver": 12,
         "bronze": 13,
-        "rank": 3,
-        "sports": [
-          {
-            "name": "Wrestling",
-            "gold_medals": 15,
-            "silver_medals": 5,
-            "bronze_medals": 2
-          },
-          {
-            "name": "Athletics",
-            "gold_medals": 3,
-            "silver_medals": 4,
-            "bronze_medals": 1
-          },
-          {
-            "name": "Gymnastic",
-            "gold_medals": 2,
-            "silver_medals": 3,
-            "bronze_medals": 0
-          }
-        ]
+        "rank": 3
         
       },
       {
