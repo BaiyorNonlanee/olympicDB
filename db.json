@@ -125,34 +125,7 @@
         "gold": 18,
         "silver": 19,
         "bronze": 16,
-        "rank": 4,
-        "sports": [
-          {
-            "name": "Track cycling",
-            "gold_medals": 9,
-            "silver_medals": 7,
-            "bronze_medals": 1
-          },
-          {
-            "name": "Athletics",
-            "gold_medals": 2,
-            "silver_medals": 6,
-            "bronze_medals": 1
-          },
-          {
-            "name": "Swimmimg",
-            "gold_medals": 5,
-            "silver_medals": 3,
-            "bronze_medals": 1
-          },
-          {
-            "name": "BMX racing",
-            "gold_medals": 3,
-            "silver_medals": 3,
-            "bronze_medals": 1
-          }
-          
-        ]
+        "rank": 4
       },
       {
         "id": 114,
