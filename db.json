@@ -42,8 +42,6 @@
           }
         ]
       },
-      
-      
       {
         "id": 111,
         "country_name": "China",
@@ -52,39 +50,7 @@
         "gold": 40,
         "silver": 27,
         "bronze": 24,
-        "rank": 2,
-        "sports": [
-          {
-            "name": "Swimming",
-            "gold_medals": 8,
-            "silver_medals": 2,
-            "bronze_medals": 1
-          },
-          {
-            "name": "Tennis",
-            "gold_medals": 6,
-            "silver_medals": 5,
-            "bronze_medals": 9
-          },
-          {
-            "name": "Water Ballet",
-            "gold_medals": 15,
-            "silver_medals": 8,
-            "bronze_medals": 10
-          },
-          {
-            "name": "International boxing",
-            "gold_medals": 5,
-            "silver_medals": 5,
-            "bronze_medals": 2
-          },
-          {
-            "name": "Gymnastic",
-            "gold_medals": 6,
-            "silver_medals": 7,
-            "bronze_medals": 2
-          }
-        ]
+        "rank": 2
       },
       {
         "id": 112,
@@ -94,8 +60,7 @@
         "gold": 20,
         "silver": 12,
         "bronze": 13,
-        "rank": 3
-        
+        "rank": 3   
       },
       {
         "id": 113,
