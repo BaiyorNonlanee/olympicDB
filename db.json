@@ -27,18 +27,6 @@
             "gold_medals": 10,
             "silver_medals": 10,
             "bronze_medals": 10
-          },
-          {
-            "name": "Wrestling",
-            "gold_medals": 5,
-            "silver_medals": 10,
-            "bronze_medals": 10
-          },
-          {
-            "name": "Athletics",
-            "gold_medals": 5,
-            "silver_medals": 4,
-            "bronze_medals": 2
           }
         ]
       },
@@ -50,7 +38,15 @@
         "gold": 40,
         "silver": 27,
         "bronze": 24,
-        "rank": 2
+        "rank": 2,
+        "sports": [
+          {
+            "name": "Basketball",
+            "gold_medals": 10,
+            "silver_medals": 10,
+            "bronze_medals": 10
+          }
+        ]
       },
       {
         "id": 112,
@@ -60,7 +56,27 @@
         "gold": 20,
         "silver": 12,
         "bronze": 13,
-        "rank": 3
+        "rank": 3,
+        "sports": [
+          {
+            "name": "Basketball",
+            "gold_medals": 10,
+            "silver_medals": 10,
+            "bronze_medals": 10
+          },
+          {
+            "name": "Swimming",
+            "gold_medals": 10,
+            "silver_medals": 10,
+            "bronze_medals": 10
+          },
+          {
+            "name": "Volleyball",
+            "gold_medals": 10,
+            "silver_medals": 10,
+            "bronze_medals": 10
+          }
+        ]
       },
       {
         "id": 113,
@@ -70,7 +86,27 @@
         "gold": 18,
         "silver": 19,
         "bronze": 16,
-        "rank": 4 
+        "rank": 4,
+        "sports": [
+          {
+            "name": "Basketball",
+            "gold_medals": 10,
+            "silver_medals": 10,
+            "bronze_medals": 10
+          },
+          {
+            "name": "Swimming",
+            "gold_medals": 10,
+            "silver_medals": 10,
+            "bronze_medals": 10
+          },
+          {
+            "name": "Volleyball",
+            "gold_medals": 10,
+            "silver_medals": 10,
+            "bronze_medals": 10
+          }
+        ]
       },
       {
         "id": 114,
@@ -80,7 +116,27 @@
         "gold": 16,
         "silver": 26,
         "bronze": 22,
-        "rank": 5
+        "rank": 5,
+        "sports": [
+          {
+            "name": "Basketball",
+            "gold_medals": 10,
+            "silver_medals": 10,
+            "bronze_medals": 10
+          },
+          {
+            "name": "Swimming",
+            "gold_medals": 10,
+            "silver_medals": 10,
+            "bronze_medals": 10
+          },
+          {
+            "name": "Volleyball",
+            "gold_medals": 10,
+            "silver_medals": 10,
+            "bronze_medals": 10
+          }
+        ]
       },
       {
         "id": 115,
@@ -90,7 +146,15 @@
         "gold": 15,
         "silver": 7,
         "bronze": 12,
-        "rank": 6
+        "rank": 6,
+        "sports": [
+          {
+            "name": "Volleyball",
+            "gold_medals": 10,
+            "silver_medals": 10,
+            "bronze_medals": 10
+          }
+        ]
       },
       {
         "id": 116,
@@ -100,7 +164,27 @@
         "gold": 14,
         "silver": 10,
         "bronze": 8,
-        "rank": 7
+        "rank": 7,
+        "sports": [
+          {
+            "name": "Basketball",
+            "gold_medals": 10,
+            "silver_medals": 10,
+            "bronze_medals": 10
+          },
+          {
+            "name": "Swimming",
+            "gold_medals": 10,
+            "silver_medals": 10,
+            "bronze_medals": 10
+          },
+          {
+            "name": "Volleyball",
+            "gold_medals": 10,
+            "silver_medals": 10,
+            "bronze_medals": 10
+          }
+        ]
       },
       {
         "id": 117,
@@ -110,7 +194,21 @@
         "gold": 13,
         "silver": 9,
         "bronze": 10,
-        "rank": 8
+        "rank": 8,
+        "sports": [
+          {
+            "name": "Basketball",
+            "gold_medals": 10,
+            "silver_medals": 10,
+            "bronze_medals": 10
+          },
+          {
+            "name": "Swimming",
+            "gold_medals": 10,
+            "silver_medals": 10,
+            "bronze_medals": 10
+          }
+        ]
       },
       {
         "id": 118,
@@ -120,7 +218,15 @@
         "gold": 12,
         "silver": 13,
         "bronze": 8,
-        "rank": 9
+        "rank": 9,
+        "sports": [
+          {
+            "name": "Basketball",
+            "gold_medals": 10,
+            "silver_medals": 10,
+            "bronze_medals": 10
+          }
+        ]
       },
       {
         "id": 119,
@@ -130,57 +236,22 @@
         "gold": 11,
         "silver": 13,
         "bronze": 15,
-        "rank": 10
-      },
-      {
-        "id": 120,
-        "country_name": "New Zealand",
-        "description": "New Zealand first sent an independent team to the Olympics in 1920. Before this, at the 1908 and 1912 Summer Olympics, New Zealand and Australian athletes competed together in a combined Australasia team. New Zealand has also participated in most Winter Olympic Games since 1952, missing only the 1956 and 1964 Games.",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/330px-Flag_of_New_Zealand.svg.png",
-        "gold": 10,
-        "silver": 7,
-        "bronze": 3,
-        "rank": 11
-      },
-      {
-        "id": 121,
-        "country_name": "Canada",
-        "description": "Canada has sent athletes to every Winter Olympic Games and every Summer Olympic Games since its debut at the 1900 games with the exception of the 1980 Summer Olympics, which it boycotted along with the USA and other countries. Canada has won at least one medal at every Olympics in which it has competed. The Canadian Olympic Committee (COC) is the National Olympic Committee for Canada.",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/330px-Flag_of_Canada_%28Pantone%29.svg.png",
-        "gold": 9,
-        "silver": 7,
-        "bronze": 11,
-        "rank": 12
-      },
-      {
-        "id": 122,
-        "country_name": "Uzbekistan",
-        "description": "Uzbekistan first participated at the Olympic Games as an independent nation in 1994, and has sent athletes to compete in every Games since then. Previously, Uzbek athletes competed as part of the Soviet Union at the Olympics from 1952 to 1988, and after the dissolution of the Soviet Union, Uzbekistan was part of the Unified Team in 1992.",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Uzbekistan.svg/330px-Flag_of_Uzbekistan.svg.png",
-        "gold": 8,
-        "silver": 2,
-        "bronze": 3,
-        "rank": 13
-      },
-      {
-        "id": 123,
-        "country_name": "Hungary",
-        "description": "Uzbekistan first participated at the Olympic Games as an independent nation in 1994, and has sent athletes to compete in every Games since then. Previously, Uzbek athletes competed as part of the Soviet Union at the Olympics from 1952 to 1988, and after the dissolution of the Soviet Union, Uzbekistan was part of the Unified Team in 1992.",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/330px-Flag_of_Hungary.svg.png",
-        "gold": 6,
-        "silver": 7,
-        "bronze": 6,
-        "rank": 14
-      },
-      {
-        "id": 124,
-        "country_name": "Spain",
-        "description": "Spain first participated at the Olympic Games in 1900, and has sent athletes to compete in most Summer Olympic Games since 1920. Spain has also participated in every Winter Olympic Games since 1936. Its team is organised by the Spanish Olympic Committee (COE, Comité Olímpico Español) created in 1924.",
-        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/330px-Flag_of_Spain.svg.png",
-        "gold": 5,
-        "silver": 4,
-        "bronze": 9,
-        "rank": 15
+        "rank": 10,
+        "sports": [
+          {
+            "name": "Basketball",
+            "gold_medals": 10,
+            "silver_medals": 10,
+            "bronze_medals": 10
+          },
+          {
+            "name": "Swimming",
+            "gold_medals": 10,
+            "silver_medals": 10,
+            "bronze_medals": 10
+          }
+        ]
       }
+      
     ]
   }
